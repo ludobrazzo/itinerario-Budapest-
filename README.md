@@ -1,12 +1,9 @@
-# Budapest Flow
+# Budapest Flow — versione dettagliata
 
-Sito statico pronto per GitHub Pages.
+Sito statico per GitHub Pages, con una pagina per ogni giorno, percorso curvo tratteggiato, orari modificabili e schede con dettagli logistici.
+
+## Immagini
+Le immagini delle tappe sono collegate a file specifici di Wikimedia Commons tramite `Special:FilePath`, così il soggetto richiesto corrisponde alla tappa. È necessaria una connessione internet per visualizzarle.
 
 ## Pubblicazione
-1. Crea un repository GitHub.
-2. Carica tutti i file mantenendo la struttura delle cartelle.
-3. Vai in Settings → Pages.
-4. Seleziona `Deploy from a branch`, branch `main`, cartella `/root`.
-5. Salva e apri l'indirizzo GitHub Pages generato.
-
-Le immagini usano URL Unsplash remoti. Gli orari delle tappe sono modificabili e vengono salvati nel browser tramite localStorage.
+Carica tutti i file mantenendo la struttura delle cartelle e attiva GitHub Pages da `Settings → Pages`.
